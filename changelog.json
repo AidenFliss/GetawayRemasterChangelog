@@ -56,6 +56,10 @@
             {
               "text": "Fix bots being stuck in PlaneMap",
               "description": ""
+            },
+            {
+              "text": "Fix zipline softlocking players",
+              "description": ""
             }
           ]
         }
