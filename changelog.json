@@ -12,16 +12,20 @@
               "description": "This adds a Lua scripting system using bLua with unity integration."
             },
             {
-              "text": "Add debug console"
+              "text": "Add debug console",
+              "description": ""
             },
             {
-              "text": "Add many new advanced settings"
+              "text": "Add many new advanced settings",
+              "description": ""
             },
             {
-              "text": "Show skin name on hover"
+              "text": "Show skin name on hover",
+              "description": ""
             },
             {
-              "text": "Add particles to the Medkit"
+              "text": "Add particles to the Medkit",
+              "description": ""
             }
           ]
         },
@@ -29,10 +33,12 @@
           "title": "Changes",
           "entries": [
             {
-              "text": "Made advanced settings a scroll view"
+              "text": "Made advanced settings a scroll view",
+              "description": ""
             },
             {
-              "text": "Reduced game size by removing duplicate sprites"
+              "text": "Reduced game size by removing duplicate sprites",
+              "description": ""
             }
           ]
         },
@@ -40,10 +46,12 @@
           "title": "Bug Fixes",
           "entries": [
             {
-              "text": "Fixed helicopter being too high up"
+              "text": "Fixed helicopter being too high up",
+              "description": ""
             },
             {
-              "text": "Fixed scoring system and tie logic"
+              "text": "Fixed scoring system and tie logic",
+              "description": ""
             }
           ]
         },
