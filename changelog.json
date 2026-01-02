@@ -13,7 +13,7 @@
             },
             {
               "text": "Add debug console"
-            }
+            },
             {
               "text": "Add many new advanced settings"
             },
@@ -35,7 +35,7 @@
               "text": "Reduced game size be removing duplicate sprites"
             }
           ]
-        }
+        },
         {
           "title": "Bug Fixes",
           "entries": [
