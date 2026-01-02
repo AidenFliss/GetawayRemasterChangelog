@@ -46,6 +46,10 @@
               "text": "Fixed scoring system and tie logic"
             }
           ]
+        },
+        {
+          "title": "Known Issues",
+          "entries": []
         }
       ]
     }
