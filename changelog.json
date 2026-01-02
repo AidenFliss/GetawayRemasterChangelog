@@ -52,12 +52,12 @@
             {
               "text": "Fixed scoring system and tie logic",
               "description": ""
+            },
+            {
+              "text": "Fix bots being stuck in PlaneMap",
+              "description": ""
             }
           ]
-        },
-        {
-          "title": "Known Issues",
-          "entries": []
         }
       ]
     }
