@@ -1,0 +1,53 @@
+{
+  "latestVersion": "0.82",
+  "versions": [
+    {
+      "version": "0.82",
+      "sections": [
+        {
+          "title": "Additions",
+          "entries": [
+            {
+              "text": "Addon System",
+              "description": "This adds a Lua scripting system using bLua with unity integration."
+            },
+            {
+              "text": "Add debug console"
+            }
+            {
+              "text": "Add many new advanced settings"
+            },
+            {
+              "text": "Show skin name on hover"
+            },
+            {
+              "text": "Add particles to the Medkit"
+            }
+          ]
+        },
+        {
+          "title": "Changes",
+          "entries": [
+            {
+              "text": "Made advanced settings a scroll view"
+            },
+            {
+              "text": "Reduced game size be removing duplicate sprites"
+            }
+          ]
+        }
+        {
+          "title": "Bug Fixes",
+          "entries": [
+            {
+              "text": "Fixed helicopter being too high up"
+            },
+            {
+              "text": "Fixed scoring system and tie logic"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
